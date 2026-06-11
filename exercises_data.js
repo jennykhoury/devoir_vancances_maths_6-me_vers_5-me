@@ -261,8 +261,8 @@ const EXERCISES_DATA = {
                 title: "Mesures d'angles et alignement",
                 statement: `<p>Résoudre les deux questions à l'aide des figures géométriques ci-dessous :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image002.png" alt="Figure a : angles RSU et UST" style="max-width: 250px; margin-right: 20px; vertical-align: middle;">
-                    <img src="extracted_images/image003.png" alt="Figure b : angles xAz et zAy" style="max-width: 250px; vertical-align: middle;">
+                    <img src="/image002.png" alt="Figure a : angles RSU et UST" style="max-width: 250px; margin-right: 20px; vertical-align: middle;">
+                    <img src="/image003.png" alt="Figure b : angles xAz et zAy" style="max-width: 250px; vertical-align: middle;">
                 </div>
                 <p><strong>a)</strong> Les points R, S et T sont-ils alignés ? Justifier la réponse en effectuant un calcul.</p>
                 <p><strong>b)</strong> On donne \\(x \\hat{A} y = 180^\\circ\\). Calculer la mesure de l'angle \\(x\\hat{A}z\\).</p>`,
@@ -304,12 +304,12 @@ const EXERCISES_DATA = {
                 <ol type="A">
                     <li><strong>Symétrie sur quadrillage</strong> : Tracer le symétrique de la figure ci-dessous par rapport à la droite (d).
                         <div style="text-align: center; margin: 12px 0;">
-                            <img src="extracted_images/image036.png" alt="Grille de symétrie A" style="max-width: 260px;">
+                            <img src="/image036.png" alt="Grille de symétrie A" style="max-width: 260px;">
                         </div>
                     </li>
                     <li><strong>Symétrie par rapport à une droite oblique</strong> : Tracer le symétrique de la figure par rapport à la droite (AB).
                         <div style="text-align: center; margin: 12px 0;">
-                            <img src="extracted_images/image037.png" alt="Grille de symétrie B" style="max-width: 320px;">
+                            <img src="/image037.png" alt="Grille de symétrie B" style="max-width: 320px;">
                         </div>
                     </li>
                 </ol>
@@ -450,7 +450,7 @@ const EXERCISES_DATA = {
                     <li><strong>Grille 4</strong> : Les multiples de 10.</li>
                 </ul>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image006.png" alt="Les quatre grilles d'énigme" style="max-width: 100%; max-width: 550px;">
+                    <img src="/image006.png" alt="Les quatre grilles d'énigme" style="max-width: 100%; max-width: 550px;">
                 </div>
                 <p><strong>2) Déterminer le mot formé par les quatre lettres obtenues (une lettre par grille).</strong></p>`,
                 course: `<h4>Rappels de cours</h4>
@@ -640,7 +640,7 @@ const EXERCISES_DATA = {
                     \\(A\\left(\\frac{3}{5}\\right)\\) &nbsp;,&nbsp; \\(B\\left(\\frac{7}{5}\\right)\\) &nbsp;,&nbsp; \\(C\\left(3 - \\frac{2}{5}\\right)\\) &nbsp;,&nbsp; \\(D\\left(\\frac{18}{5}\\right)\\)
                 </div>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image015.png" alt="Demi-droite graduée" style="max-width: 100%; max-width: 450px;">
+                    <img src="/image015.png" alt="Demi-droite graduée" style="max-width: 100%; max-width: 450px;">
                 </div>
                 <p><em>Indiquez la position graduée décimale équivalente (en nombre de cinquièmes ou en nombre décimal) pour vérifier vos réponses.</em></p>`,
                 course: `<h4>Rappels de cours</h4>
@@ -931,7 +931,7 @@ const EXERCISES_DATA = {
                 title: "Énigme des fruits (Système visuel)",
                 statement: `<p>Trouver la valeur de chaque fruit sur la balance ci-dessous :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image016.png" alt="Équations de fruits : Pomme, Banane, Noix de coco" style="max-width: 100%; max-width: 480px;">
+                    <img src="/image016.png" alt="Équations de fruits : Pomme, Banane, Noix de coco" style="max-width: 100%; max-width: 480px;">
                 </div>
                 <p>Déterminer la valeur numérique associée à chaque symbole :</p>
                 <ul>
@@ -1130,7 +1130,7 @@ const EXERCISES_DATA = {
                 title: "Reconnaître la proportionnalité",
                 statement: `<p>Laurence a pesé les pommes de son verger par paquet. Voici ses résultats (représentés dans l'image ci-dessous) :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image021.png" alt="Tableau de correspondance : Nombre de pommes vs Masse en kg" style="max-width: 100%; max-width: 380px;">
+                    <img src="/image021.png" alt="Tableau de correspondance : Nombre de pommes vs Masse en kg" style="max-width: 100%; max-width: 380px;">
                 </div>
                 <p><strong>Le nombre de pommes est-il proportionnel à la masse ? Justifier la réponse.</strong></p>`,
                 course: `<h4>Rappels de cours</h4>
@@ -1170,7 +1170,7 @@ const EXERCISES_DATA = {
                 title: "Calculs d'angles et points alignés",
                 statement: `<p>Résoudre l'exercice d'angles en vous servant du schéma géométrique ci-dessous :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image022.png" alt="Figure avec les angles FBE, EBD, DBC, etc." style="max-width: 100%; max-width: 250px;">
+                    <img src="/image022.png" alt="Figure avec les angles FBE, EBD, DBC, etc." style="max-width: 100%; max-width: 250px;">
                 </div>
                 <p>Sur la figure, on donne :</p>
                 <ul>
@@ -1280,7 +1280,7 @@ const EXERCISES_DATA = {
                 title: "Calcul de périmètre et conversions",
                 statement: `<p>Résoudre l'exercice de calcul de périmètre à l'aide de la figure suivante :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image026.png" alt="Figure géométrique complexe pour calcul de périmètre" style="max-width: 100%; max-width: 320px;">
+                    <img src="/image026.png" alt="Figure géométrique complexe pour calcul de périmètre" style="max-width: 100%; max-width: 320px;">
                 </div>
                 <p>La figure comporte un carré central de côté \\(4\\text{ cm}\\), flanqué de deux quarts de cercles de rayon égal au côté du carré.</p>
                 <p><strong>a)</strong> Calculer le périmètre de la figure en centimètres (\\(\\text{cm}\\)). Prendre \\(\\pi \\approx 3,14\\).</p>
@@ -1380,7 +1380,7 @@ const EXERCISES_DATA = {
                     <strong>Règle du chemin :</strong> Il faut passer d'une case à une autre adjacente à condition que le nombre suivant soit strictement **inférieur** au précédent (ordre décroissant).
                 </div>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image027.png" alt="Grille du labyrinthe de nombres" style="max-width: 100%; max-width: 450px;">
+                    <img src="/image027.png" alt="Grille du labyrinthe de nombres" style="max-width: 100%; max-width: 450px;">
                 </div>`,
                 course: `<h4>Rappels de cours</h4>
                 <ul>
@@ -1620,7 +1620,7 @@ const EXERCISES_DATA = {
                 title: "Calcul d'aire géométrique (Partie colorée)",
                 statement: `<p>Calculer la valeur exacte de l'aire de la partie colorée ci-dessous :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image035.png" alt="Grand rectangle de 10cm x 5cm avec un rectangle blanc intérieur de 4cm x 2cm" style="max-width: 100%; max-width: 280px;">
+                    <img src="/image035.png" alt="Grand rectangle de 10cm x 5cm avec un rectangle blanc intérieur de 4cm x 2cm" style="max-width: 100%; max-width: 280px;">
                 </div>
                 <p>La figure est composée d'un rectangle extérieur de dimensions \\(10\\text{ cm}\\) et \\(5\\text{ cm}\\), et d'un rectangle intérieur blanc de dimensions \\(4\\text{ cm}\\) et \\(2\\text{ cm}\\).</p>
                 <p><strong>Calculer l'aire de la partie colorée (en \\(\\text{cm}^2\\)).</strong></p>`,
@@ -1665,7 +1665,7 @@ const EXERCISES_DATA = {
                 <p>Le solide est constitué d’un assemblage de cubes identiques d'arête <strong>\\(1\\text{ cm}\\)</strong>.</p>
                 <p><strong>Déterminer le volume total de ce solide en \\(\\text{cm}^3\\).</strong></p>
                 <div style="text-align: center; margin: 12px 0;">
-                    <img src="extracted_images/image042.png" alt="Schéma indicatif" style="max-width: 150px;">
+                    <img src="/image042.png" alt="Schéma indicatif" style="max-width: 150px;">
                 </div>`,
                 course: `<h4>Rappels de cours</h4>
                 <ul>
@@ -1757,7 +1757,7 @@ const EXERCISES_DATA = {
                 title: "Énigme : Équilibre des balances",
                 statement: `<p>Quelle est la masse d’une pomme ? Et d’une banane ? Déterminer leurs masses respectives en vous servant du schéma des balances : (masse totale droite: 50 g, et masse totale à gauche: 30 g)</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image059.png" alt="Équilibre des balances" style="max-width: 100%; max-width: 320px;">
+                    <img src="/image059.png" alt="Équilibre des balances" style="max-width: 100%; max-width: 320px;">
                 </div>`,
                 course: `<h4>Rappels de cours</h4>
                 <ul>
@@ -1795,7 +1795,7 @@ const EXERCISES_DATA = {
                     Règle : La somme de chaque ligne, de chaque colonne et de chaque diagonale doit être identique.
                 </div>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image038.png" alt="Les deux carrés magiques incomplets" style="max-width: 100%; max-width: 380px;">
+                    <img src="/image038.png" alt="Les deux carrés magiques incomplets" style="max-width: 100%; max-width: 380px;">
                 </div>
                 <p>Trouver la somme magique pour chacun des deux carrés.</p>`,
                 course: `<h4>Rappels de cours</h4>
@@ -1975,7 +1975,7 @@ const EXERCISES_DATA = {
                 title: "Géométrie : Axes de symétrie des figures",
                 statement: `<p>Déterminer, pour chacune des figures ci-dessous, le nombre d'axes de symétrie (s'ils existent) :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image041.png" alt="Figures : Fleur, Pentagone étoilé, Flèche oblique, Parallélogramme, Triangles..." style="max-width: 100%; max-width: 550px;">
+                    <img src="/image041.png" alt="Figures : Fleur, Pentagone étoilé, Flèche oblique, Parallélogramme, Triangles..." style="max-width: 100%; max-width: 550px;">
                 </div>
                 <p>Déterminer le nombre d'axes de symétrie pour :</p>
                 <ol type="a">
@@ -1991,7 +1991,7 @@ const EXERCISES_DATA = {
                 title: "Cryptarithme de la balance",
                 statement: `<p>Résoudre l'énigme représentée sur le schéma ci-dessous :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image043.png" alt="Énigme de la balance et des formes géométriques" style="max-width: 100%; max-width: 450px;">
+                    <img src="/image043.png" alt="Énigme de la balance et des formes géométriques" style="max-width: 100%; max-width: 450px;">
                 </div>`
             },
             {
@@ -2000,7 +2000,7 @@ const EXERCISES_DATA = {
                 title: "Qui présentera le journal télévisé ?",
                 statement: `<p>Effectuer mentalement les calculs suivants pour trouver son identité (déchiffrer le code secret dans l'image) :</p>
                 <div style="text-align: center; margin: 16px 0;">
-                    <img src="extracted_images/image060.png" alt="Code secret et calculs mentaux pour trouver l'identité du présentateur" style="max-width: 100%; max-width: 500px;">
+                    <img src="/image060.png" alt="Code secret et calculs mentaux pour trouver l'identité du présentateur" style="max-width: 100%; max-width: 500px;">
                 </div>`
             }
         ]
